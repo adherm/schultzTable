@@ -1,8 +1,8 @@
 //
 // Permutating the array of numbers.
 // Random variables come from one of two sources:
-//  . pseudo-random number from arc4random_uniform function
-//  .   true-random number from random.org service
+//  . pseudo-random numbers from arc4random_uniform function
+//  .   true-random numbers from random.org service
 //
 // Created by Adalbert Hermann
 //
