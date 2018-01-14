@@ -1,3 +1,12 @@
+//
+// Permutating the array of numbers.
+// Random variables come from one of two sources:
+//  . pseudo-random number from arc4random_uniform function
+//  .   true-random number from random.org service
+//
+// Created by Adalbert Hermann
+//
+
 import Foundation
 
 func randPerm(_ set: inout [Int?], isRealRand: Bool = false) {
@@ -66,4 +75,3 @@ for index in 0 ..< symbolCount {
 randPerm(&schultz5x5Table)
 print(schultz5x5Table)
 print(schultz5x5Table.count)
-
