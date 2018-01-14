@@ -1,6 +1,6 @@
 //
 // Permutating the array of numbers.
-// Random variables come from one of two sources:
+// Random values come from one of two sources:
 //  . pseudo-random numbers from arc4random_uniform function
 //  .   true-random numbers from random.org service
 //
