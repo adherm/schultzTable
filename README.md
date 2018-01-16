@@ -2,7 +2,7 @@
 ### This is my (Adalbert Hermann) web page about Swift 4, although experimental but useful for the programmer's reader.
 
 
-Swift 4 hasn't got incrementation (++) and decrementation (--) operator but you can define these operators
+Swift 4 hasn't got incrementation (++) and decrementation (- -) operator but you can define these operators
 
 ```swift
 postfix func ++ (value: Int) -> Int {
@@ -52,7 +52,7 @@ let me = Greet()
 print(me.h) // shows Hello Adal
 ```
 
-say() it's function without arguments (zero-argument constant function)
+say() is function without arguments (zero-argument constant function)
 Private constant g is really function defined by Closure construct.
 Variable h is lazy - computed only when is needed.
 
