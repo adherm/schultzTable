@@ -185,7 +185,7 @@ class A {
     static let a = A()
 
     init() {
-        print("I'm initialized)
+        print("I'm initialized")
     }
 
     func f() {
@@ -219,6 +219,7 @@ Say.greet.person()
 Say.greet.person("Gala")
 Say.greet.person()
 Say.greet.person()
+```
 
 The program prints
 
@@ -228,4 +229,3 @@ Hello Adal
 Hello Gala
 Hello Gala
 Hello Gala
-```
