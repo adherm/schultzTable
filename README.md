@@ -2,7 +2,7 @@
 ### This is my (Adalbert Hermann) web page about Swift 4, although experimental but useful for the programmer's reader.
 
 
-Swift 4 hasn't got incrementation (++) and decrementation (- -) operator but you can define these operators
+Swift 4 hasn't got incrementation (++) and decrementation (-  -) operator but you can define these operators
 
 ```swift
 postfix func ++ (value: Int) -> Int {
