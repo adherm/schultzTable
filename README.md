@@ -1,6 +1,7 @@
 ## Swift - the reconciliation of simplicity and complexity
 ### This is my (Adalbert Hermann) web page about Swift 4, although experimental but useful for the programmer's reader.
 
+I think Swift is the best programming language to first step learning.
 
 Swift 4 hasn't got incrementation (++) and decrementation operator but you can define these operators
 
